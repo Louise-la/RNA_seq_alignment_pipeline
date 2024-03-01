@@ -23,7 +23,7 @@ RNA-Seq Pipeline is designed to streamline the analysis of RNA sequencing data, 
 To install and set up the RNA-Seq Pipeline, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your_username/rna-seq-pipeline.git
+   git clone https://github.com/Louise-la/RNA-seq-pipeline.git
 
 2. Navigate to the project directory:
     cd rna-seq-pipeline
